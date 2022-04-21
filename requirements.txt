@@ -1,0 +1,13 @@
+tensorflow==2.8.0
+tf-agents==0.9.0
+pydantic
+influxdb-client
+influxdb-client[extra]
+pandas
+numpy
+devtools
+python-dotenv
+typer
+Pillow
+matplotlib
+seaborn

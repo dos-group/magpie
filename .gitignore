@@ -1,0 +1,8 @@
+example
+.idea
+log
+__pycache__
+fio_generated.conf
+experiments
+__pychache__
+/magpie/checkpoint/
